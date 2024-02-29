@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.e40f04a1.css",
+    "main.js": "/resume/static/js/main.1ec58579.js",
+    "static/js/453.0786885f.chunk.js": "/resume/static/js/453.0786885f.chunk.js",
+    "static/media/Abimon.jpg": "/resume/static/media/Abimon.51aaa2c5fd9e40391440.jpg",
+    "static/media/header-background.jpg": "/resume/static/media/header-background.163f2ec8baec677f9a08.jpg",
+    "index.html": "/resume/index.html",
+    "main.e40f04a1.css.map": "/resume/static/css/main.e40f04a1.css.map",
+    "main.1ec58579.js.map": "/resume/static/js/main.1ec58579.js.map",
+    "453.0786885f.chunk.js.map": "/resume/static/js/453.0786885f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e40f04a1.css",
+    "static/js/main.1ec58579.js"
+  ]
+}
